@@ -1,2 +1,0 @@
-[production.database]
-url = "postgresql://synthetic:jQnPGXhzaHhkew4O9pOYxh0X@db.invalid:5432/testdb"
